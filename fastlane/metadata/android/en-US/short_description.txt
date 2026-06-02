@@ -1,1 +1,1 @@
-Free, open-source running trainer. C25K and C210K programs. No Google, no tracking.
+Free, open-source C25K/C210K running trainer. No Google, no tracking.
